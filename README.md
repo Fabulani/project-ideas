@@ -21,3 +21,5 @@ Add AR support to CubeBro so he can flex anywhere, anytime. [Link here](https://
 # Hiragana characters stories
 
 For each hiragana character, make a three.js scene representing its combination of building blocks (as seen in the app `Hiragana Quest`). For example, for `KE`, it's a combination of `COBRA + SAMURAI = KEBAB` (see Hiragana Quest to understand), as such the scene would be a samurai sitting by a bonfire cooking a dead snake with his katana, and the hiragana `KE` floating above it.
+
+# Attack of the Paper Zombies recreation in three.js
