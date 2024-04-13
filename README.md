@@ -25,3 +25,17 @@ For each hiragana character, make a three.js scene representing its combination 
 # Attack of the Paper Zombies recreation in three.js
 
 # 3D Volumetric Videos Visualization in three.js
+
+# Roomba simulator
+
+- Platform: Godot or three.js
+- Top view initially for prototype, then ortographic camera view.
+- start as bumber roomba
+- can only see what your sensors tell you
+- bumper: only mark bumped areas when making map
+- ultrassonic: short distance frontal detect
+- lidar: 360 accurate map
+- movement upgrades: manual control, them click to straight path, then click to pathfinding path
+- goal: cover as much of the environment as possible before battery runs out
+- use fog of war to simulate map and sensors?
+- how hard is it to implement uncertainty based movement (w/ kalman filters)?
